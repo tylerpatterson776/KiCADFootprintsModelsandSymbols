@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 39515000440
+D LITTELFUSE - 39515000440 - Fuse, PCB Leaded, 5 A, 125 V, TE5 395 Series, Fast Acting, Radial Leaded
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_395_datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

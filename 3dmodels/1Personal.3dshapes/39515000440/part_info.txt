@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=39515000440
+PartCategory=Fuse
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2021-10-07 07:47:52
+Downloaded=2025-10-03 08:45:38
+3D=Y

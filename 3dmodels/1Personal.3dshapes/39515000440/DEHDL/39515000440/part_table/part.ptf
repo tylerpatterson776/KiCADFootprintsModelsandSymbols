@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '39515000440'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "NEWARK_PART_NUMBER", "NEWARK_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "39515000440" (!) = "", "39515000440", "Other", "", "", "LITTELFUSE - 39515000440 - Fuse, PCB Leaded, 5 A, 125 V, TE5 395 Series, Fast Acting, Radial Leaded", "https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_395_datasheet.pdf.pdf", "8 mm"
+END_PART
+
+END.
